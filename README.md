@@ -42,7 +42,7 @@ Desenvolvedor Java apaixonado por criar soluções web inovadoras. Atualmente, e
 
 ## 📫 Como Me Encontrar
 
-- LinkedIn: [Matheus Versutti](https://www.linkedin.com/in/matheussversutti/)
+- LinkedIn: [Matheus Versutti](https://www.linkedin.com/in/matheus-chagas-6011b7208/)
 - GitHub: [@matheussversutti](https://github.com/matheussversutti)
 
 ## 📊 Estatísticas do GitHub
