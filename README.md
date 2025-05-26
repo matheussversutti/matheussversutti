@@ -29,6 +29,10 @@ Desenvolvedor Java apaixonado por criar soluções web inovadoras. Atualmente, e
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
+### SOs
+![Windows](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=blue)
+![Ubuntu Server](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=orange)
+
 ## 📚 Projetos
 
 *Em breve, novos projetos serão adicionados aqui!*
